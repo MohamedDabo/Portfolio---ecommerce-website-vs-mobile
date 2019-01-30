@@ -1,4 +1,4 @@
-# Portfolio-ecommerce:-website-vs-mobile
+# Portfolio - ecommerce:-website-vs-mobile
 This project is part of the "Python for Data Science and Machine Learning" course I enrolled in.
 
 In this project we explored the dataset from an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions.
